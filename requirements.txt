@@ -1,0 +1,8 @@
+gradio
+torch
+numpy
+tqdm
+transformers
+pytorch-lightning
+pillow
+matplotlib
