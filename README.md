@@ -53,6 +53,6 @@ This project is licensed under the MIT License..
 
 ## Contact
 
-Created by Hoshik Rana.  
+Created by methukulokesh.  
 GitHub: [methukulokesh](https://github.com/methukulokesh)  
 Hugging Face: [methukulokesh](https://huggingface.co/methukulokesh)
